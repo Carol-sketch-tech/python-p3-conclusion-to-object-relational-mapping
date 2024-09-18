@@ -1,0 +1,10 @@
+Objectives have been 
+    1. creating python objects using SQL databse records
+    2. creating databse records using python objects.
+
+Benefits of ORMs are :
+    1. Create tables in a corresponding python class.
+    2. Insert data into the database froma  python method.
+    3. Find and update existing database records when chagens are made totheir related oython objects.
+    4. We can map a databasetable to a python object as well as we can make python objects from databse rows.
+    with our ORM in place, other developers can leverage the prower of SQL in our python calss without needing to write it themselves.
